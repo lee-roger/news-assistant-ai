@@ -329,9 +329,6 @@ rss:
     #  ★ 国内时事与政策（了解社会动态、政策机遇）
     # ═══════════════════════════════════════════════════════════
 
-    - id: "xinhua-news"
-      name: "新华网"
-      url: "http://www.xinhuanet.com/politics/news_politics.xml"
 
     - id: "people-cn"
       name: "人民网"
