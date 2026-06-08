@@ -115,9 +115,6 @@ platforms:
     - id: "hackernews"
       name: "Hacker News 热榜"
       expected_domain: "news.ycombinator.com"
-    - id: "linuxdo"
-      name: "LinuxDo"
-      expected_domain: "linux.do"
     # === 新增：财经/金融 ===
     - id: "xueqiu"
       name: "雪球热帖"
@@ -132,12 +129,6 @@ platforms:
     - id: "douban"
       name: "豆瓣"
       expected_domain: "douban.com"
-    - id: "zaobao"
-      name: "联合早报"
-      expected_domain: "zaobao.com"
-    - id: "cankaoxiaoxi"
-      name: "参考消息"
-      expected_domain: "cankaoxiaoxi.com"
     # === 新增：安全/产品 ===
     - id: "freebuf"
       name: "FreeBuf 安全"
